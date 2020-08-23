@@ -5,6 +5,7 @@ and the Project website url--> https://prince2608.github.io/Project.github.io/
 
 👍 HAVE FUN 👍
 
-(./img/Design.jpg)
+# Thats our website look pls comment if You like it.
+![](img/Design.jpg)
 
 
